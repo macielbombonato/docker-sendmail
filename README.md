@@ -1,2 +1,3 @@
 # docker-sendmail
-A simple container to be used to send emails for internal systems
+
+Esta imagem vai servir basicamente para enviar emails de lembrar minha senha e coisas do tipo para sistemas internos.
